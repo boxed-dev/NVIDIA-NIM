@@ -1,5 +1,5 @@
 
-# # NVIDIA NIM and Retrieval-Augmented Question-Answering Pipeline
+# NVIDIA NIM and Retrieval-Augmented Question-Answering Pipeline
 
 This code demonstrates how to use the NVIDIA NIM to build a question-answering system. The system fetches a web page, embeds its content using NVIDIA Embeddings, and then uses a retrieval-based question-answering approach to answer queries based on the embedded content.
 
