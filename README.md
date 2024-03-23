@@ -14,9 +14,9 @@ Before running this code, make sure you have the following dependencies installe
 
 You can install them using pip:
 
-\```bash
+```bash
 pip install langchain_nvidia_ai_endpoints langchain-community langchain-text-splitters faiss-cpu
-\```
+```
 
 Additionally, you need to set your NVIDIA API key as an environment variable named `NVIDIA_API_KEY`. This is necessary to authenticate with the NVIDIA Generative AI Microservices.
 
@@ -54,4 +54,4 @@ To use this code, follow these steps:
 4. When prompted, enter your question, and the system will generate an answer based on the retrieved context.
 
 **Note:** This code is designed to work with the NVIDIA Generative AI Microservices, which may require a paid subscription or credits. Additionally, the performance and accuracy of the question-answering system will depend on the quality and relevance of the embedded web page content.
-\```
+
